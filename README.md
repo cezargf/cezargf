@@ -3,3 +3,8 @@
 - 🌱 I'm currently learning about PHP 8, HTML 5, CSS3, jQuery 3 and Codeigniter 3 Framework. 
 - 💞️ I'm looking to study and collaborate on an open source project called Map-OS. (https://github.com/RamonSilva20/mapos)
 - 📫 To call me: send a message on Telegram or send me an email. I will respond as soon as possible.
+
+- Contact Information:
+
+  ✉ cezargf@hotmail.com  |  Telegram App: @cezargf
+
